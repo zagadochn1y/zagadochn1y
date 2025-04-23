@@ -3,7 +3,7 @@
     <h3>Front-End Software Engineer from Almaty</h3>
 </div>
 <div id = 'socials' align = 'center'>
-    <a href = "www.linkedin.com/in/adilet-maidankhan">
+    <a href = "https://www.linkedin.com/in/adilet-maidankhan/">
       <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   <a href = "https://t.me/zagadochn1y">
