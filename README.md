@@ -16,7 +16,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Web3, Machine Learning**
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/adilet-maidankhan/), [email](mailto:mailybaevdilet@gmail.com)
 - 🌍 I speak English
 
 ---
